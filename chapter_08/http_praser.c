@@ -32,7 +32,7 @@
  *
  * 示例：
  * ./http_parser 127.0.0.1 8080
- * 然后使用 curl 测试：curl http://127.0.0.1:8080/test
+ * 然后使用 curl 测试：curl http://127.0.0.1:8080/
  */
 
 #include <arpa/inet.h>
